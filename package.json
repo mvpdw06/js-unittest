@@ -1,0 +1,14 @@
+{
+  "name": "js-unittest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expect": "^1.20.2"
+  }
+}
